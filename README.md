@@ -1,1 +1,1 @@
-These are the assignments and projects i did during the front-end programming academy at Brainster.
+These are the assignments i did during the front-end programming academy at Brainster.
